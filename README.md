@@ -46,3 +46,7 @@ Pong-Game/
 ## 🎮 Screenshot
 
 <img src="https://raw.githubusercontent.com/ShashankVBhat17/Pong-Game/1a0ca38242454e20730205e027711b452e3c64c4/Screenshot%202025-08-24%20112620.png" width="960">
+
+##  Screenshot
+
+<img src="https://raw.githubusercontent.com/ShashankVBhat17/Pong-Game/521155d380021c2485c2b89de29ebd60afcf2403/Screenshot%202025-08-24%20112655.png" width="960">
