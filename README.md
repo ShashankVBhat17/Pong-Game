@@ -43,4 +43,6 @@ Pong-Game/
 └── Score.java
 
 📸 Screenshot 
-![Pong Game Screenshot](https://raw.githubusercontent.com/ShashankVBhat17/Pong-Game/1a0ca38242454e20730205e027711b452e3c64c4/Screenshot%202025-08-24%20112620.png)
+## 🎮 Screenshot
+
+<img src="https://raw.githubusercontent.com/ShashankVBhat17/Pong-Game/1a0ca38242454e20730205e027711b452e3c64c4/Screenshot%202025-08-24%20112620.png" width="960">
